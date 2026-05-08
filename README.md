@@ -95,3 +95,9 @@ The pipeline processes BOMs incrementally using chunked execution to optimize me
 | **Workflow** | Manual reconciliation | Fully automated ETL |
 | **Operational Overhead** | High | Minimal |
 
+
+---
+
+## System Architecture
+
+![BOM Transformation ETL Pipeline](BOM_Transformation_ETL_pipeline.png)
